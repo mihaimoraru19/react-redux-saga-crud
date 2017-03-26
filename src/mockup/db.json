@@ -1,0 +1,180 @@
+{
+  "product": [{
+      "id": 1,
+      "name": "Ursulet nou",
+      "quantity": 12,
+      "price": 20,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 1
+    },
+    {
+      "id": 2,
+      "name": "Masinuta",
+      "quantity": 5,
+      "price": 20,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 1
+    },
+    {
+      "id": 3,
+      "name": "Barcuta",
+      "quantity": 2,
+      "price": 21,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 1
+    },
+    {
+      "id": 4,
+      "name": "Albinuta",
+      "quantity": 7,
+      "price": 7,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 1
+    },
+    {
+      "id": 5,
+      "name": "Mingiuta",
+      "quantity": 9,
+      "price": 8,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 1
+    },
+    {
+      "id": 6,
+      "name": "Civilization",
+      "quantity": 4,
+      "price": 80,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 2
+    },
+    {
+      "id": 7,
+      "name": "StarCraft",
+      "quantity": 1,
+      "price": 40,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 2
+    },
+    {
+      "id": 8,
+      "name": "WarCraft",
+      "quantity": 1,
+      "price": 35,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 2
+    },
+    {
+      "id": 9,
+      "name": "GTA 5",
+      "quantity": 100,
+      "price": 5,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 2
+    },
+    {
+      "id": 10,
+      "name": "Halo",
+      "quantity": 45,
+      "price": 36,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 2
+    },
+    {
+      "id": 11,
+      "name": "Red Alert",
+      "quantity": 30,
+      "price": 3,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 2
+    },
+    {
+      "name": "Ciocolata Milka",
+      "quantity": 12,
+      "price": 20,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "supplierId": 3,
+      "id": 12
+    }
+  ],
+  "supplier": [{
+     "id": 1,
+      "name": "Gentlab Onesti Srl",
+      "address": "Str. Curmaturii nr 145"
+    },
+    {
+      "id": 2,
+      "name": "Gentlab Srl",
+      "address": "Str. Unirii nr 145"
+    },
+    {
+      "id": 3,
+      "name": "Brain Srl",
+      "address": "Str. Gelu Coican nr 129"
+    },
+    {
+      "id": 4,
+      "name": "Bamboo Srl",
+      "address": "Str. Stirenului nr 63"
+    },
+    {
+      "id": 5,
+      "name": "Colectiv Srl",
+      "address": "Str. Mihai Viteazu nr 53"
+    },
+    {
+      "id": 6,
+      "name": "Milka Srl",
+      "address": "Str. Oituz nr 103"
+    },
+    {
+      "id": 7,
+      "name": "LOL Srl",
+      "address": "Str. Republicii nr 123"
+    },
+    {
+      "id": 8,
+      "name": "WOW Srl",
+      "address": "Str. Garii nr 73"
+    },
+    {
+      "id": 9,
+      "name": "DOTA Srl",
+      "address": "Str. Trifoi nr 773"
+    },
+    {
+      "id": 10,
+      "name": "BMX Srl",
+      "address": "Str. Marasesti nr 53"
+    },
+    {
+      "name": "New FiFa Srl",
+      "address": "Str. I.L. Caragiale nr 34",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "Acer Srl",
+      "address": "Str. Barca nr 31"
+    },
+    {
+      "id": 13,
+      "name": "Proc Porc Srl",
+      "address": "Str. Popa Sapca nr 23"
+    },
+    {
+      "id": 14,
+      "name": "Versace Srl",
+      "address": "Str. Ion Kog nr 1"
+    },
+    {
+      "name": "Etnies Srl",
+      "address": "Str. Onesti nr 1",
+      "id": 15
+    },
+    {
+      "name": "New FiFa Srl",
+      "address": "Str. I.L. Caragiale nr 34",
+      "id": 16
+    }
+  ]
+}
